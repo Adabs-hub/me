@@ -310,6 +310,16 @@ body{
       border-bottom: 1px solid rgba(122, 152, 187, 0.8);
       
     }
+
+    
+.title h2 {
+  
+  font-size:30px;
+  font-weight:100;
+  margin:10px 0px 20px;
+    
+  
+}
   
     .item{
       display: none;
@@ -357,6 +367,9 @@ body{
     
     .img:hover{
       transform: none;
+    }
+    .footer{
+      margin-bottom: 30px;
     }
   
     
