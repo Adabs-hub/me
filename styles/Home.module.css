@@ -292,8 +292,8 @@ body{
     transform: scale(1.5);
   }
 
-  
-  @media (max-width:1104px)
+
+  @media screen and (max-width:768px)
   {
     .container{
       max-height: min-content;
