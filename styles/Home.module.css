@@ -296,7 +296,7 @@ body{
   @media screen and (max-width:768px)
   {
     .container{
-      max-height: min-content;
+      max-height: max-content;
       min-height: min-content;
     }
     
